@@ -1122,7 +1122,8 @@ main {
   #CONTACT
 \*-----------------------------------*/
 
-.mapbox {
+
+/* .mapbox {
   position: relative;
   height: 250px;
   width: 100%;
@@ -1221,7 +1222,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .form-btn:disabled:hover::before { background: var(--bg-gradient-jet); }
 
-
+ */
 
 
 
